@@ -3,8 +3,7 @@
 ## Overview
 Book collection manager
 
-## Why this project?
-This repository was created as sample project #9 with its own structure and documentation style.
+
 
 ## Features
 - Lightweight design
@@ -19,5 +18,4 @@ This repository was created as sample project #9 with its own structure and docu
 ## Usage
 Clone the repository and explore the source code.
 
-## Notes
-Each project in this collection has a different README wording and folder arrangement.
+
